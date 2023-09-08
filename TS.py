@@ -1,5 +1,5 @@
 
-nevem= "Szendefy Erik"
+nevem= "Szendefy Erik ha"
 
 print('Hello world')
 print(nevem)
